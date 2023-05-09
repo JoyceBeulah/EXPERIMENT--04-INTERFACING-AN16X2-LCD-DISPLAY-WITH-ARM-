@@ -208,7 +208,7 @@ LED IS OFF
 
 
 LED IS ON
-![image](https://github.com/JoyceBeulah/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118343698/50ab8da9-3db5-4a4c-b764-72c69f414e61)
+![image](https://github.com/JoyceBeulah/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118343698/638249fa-c25f-471c-adaf-d003781f2a5d)
 
 
  
