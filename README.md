@@ -204,10 +204,12 @@ int main(void)
 
 ## Output screen shots of proteus  :
 LED IS OFF 
-![image](https://user-images.githubusercontent.com/118343698/235468617-2e65e71a-d156-42b0-9676-74531ac1ce2a.png)
+![image](https://github.com/JoyceBeulah/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118343698/beaab0b8-8625-4d0b-950c-dc17f52a62d9)
+
 
 LED IS ON
-![image](https://user-images.githubusercontent.com/118343698/235468722-1a3f5383-65b7-4909-899d-7abef706a00d.png)
+![image](https://github.com/JoyceBeulah/EXPERIMENT--04-INTERFACING-AN16X2-LCD-DISPLAY-WITH-ARM-/assets/118343698/50ab8da9-3db5-4a4c-b764-72c69f414e61)
+
 
  
  
